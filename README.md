@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 🌅
+
+There is a man who want to change something
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/A-new-b)
+
+## PlatForm or Tools
+
+![](https://shields.io/badge/OS-Arch%20Linux-blue?logo=arch-linux)
+![](https://shields.io/badge/IDE-JetBrains-success?logo=JetBrains)
+
 
 <!--
 **A-new-b/A-new-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Stats
+![info](https://github-readme-stats.vercel.app/api?username=A-new-b&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+## Finally
+
+初入此行，才浅学疏，所著多为私仓，实不得以，以图徐徐开源，还望同行见谅，前辈斧正
