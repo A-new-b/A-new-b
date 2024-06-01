@@ -2,8 +2,6 @@
 
 There is a man who want to change something
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/A-new-b)
-
 ## PlatForm or Tools
 
 ![](https://shields.io/badge/OS-Arch%20Linux-blue?logo=arch-linux)
